@@ -8,7 +8,7 @@ package com.mycompany.calculadorajava;
  *
  * @author 08240
  */
-public class Main {
+public class CalculadoraJava {
     public static void main(String[] args) {
         new CalculadoraGUI();
     }
